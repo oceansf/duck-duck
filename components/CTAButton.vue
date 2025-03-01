@@ -5,7 +5,7 @@
     >
       <span class="md:text-2xl"> NOTIFY ME </span>
     </button>
-    <div class="absolute -z-10 left-2 top-6 w-[183px] h-[64px] bg-orange-600 rounded-2xl"></div>
+    <div class="absolute -z-10 left-2 top-6 md:w-[183px] md:h-[64px] w-[141px] h-[56px] bg-orange-600 rounded-xl"></div>
   </div>
 </template>
 
